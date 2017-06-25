@@ -11,7 +11,7 @@
 
 #include <stdint.h>
 
-#include <boost/foreach.hpp>
+#include <boost/foreach.hpp> //BOOST_REVERSE_FOREACH
 
 namespace Checkpoints {
 
